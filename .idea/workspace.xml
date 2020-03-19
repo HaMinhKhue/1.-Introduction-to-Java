@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a13276fa-8e34-4dd5-8265-e51c63287d74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/showsystemstime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.showsystemstime">
+    <configuration name="showsystemstime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="showsystemstime" />
+      <module name="1. Introduction to Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="1. Introduction to Java" />
@@ -53,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.showsystemstime" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
@@ -67,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584604454756</updated>
-      <workItem from="1584604466255" duration="2681000" />
+      <workItem from="1584604466255" duration="4688000" />
     </task>
     <servers />
   </component>
@@ -79,21 +86,21 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="362" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1584604698905" />
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1584605373215">
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1584610536071">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584605373215" />
-    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1584605373215">
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584610536071" />
+    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1584610536071">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584605373215" />
-    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1584605373215">
+    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584610536071" />
+    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1584610536071">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584605373215" />
-    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1584605373215">
+    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584610536071" />
+    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1584610536071">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584605373215" />
+    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584610536071" />
   </component>
 </project>
